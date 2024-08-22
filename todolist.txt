@@ -1,0 +1,4 @@
+1. Git initialiation- git init
+2. Check the status of the repository- git status
+3. Creating a file-touch filename
+4. Editing the file- nano filename 
