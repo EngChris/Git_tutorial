@@ -2,3 +2,8 @@
 2. Check the status of the repository- git status
 3. Creating a file-touch filename
 4. Editing the file- nano filename 
+5. git lol - Gives a summary of the logs 
+6. rm filename- Removes the file complete
+7. git reset commit_id - restores the git file to the given commit id
+8. git config --global -e  : getting into the git config file
+ 
